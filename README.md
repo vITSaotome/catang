@@ -1,2 +1,2 @@
 # catang
-AngularJS test app (product catalog)
+AngularJS test app v0.1 (product catalog)
