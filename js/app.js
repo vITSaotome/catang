@@ -8,7 +8,7 @@ app.config(['$routeProvider',
         $routeProvider.
             when('/products', {
                 templateUrl: '/views/products.html',
-                controller: 'productCtrl'
+                controller: 'productsCtrl'
             }).
             when('/products/:id', {
                 templateUrl: '/views/product-details.html',
