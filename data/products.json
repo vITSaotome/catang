@@ -1,0 +1,26 @@
+[
+  {
+    "name" : "Adidas Shoes Red",
+    "category" : "Men",
+    "description" : "Running",
+    "price" : 20
+  },
+  {
+    "name" : "Adidas Shoes Yellow",
+    "category" : "Ladies",
+    "description" : "Running",
+    "price" : 25
+  },
+  {
+    "name" : "Adidas Shoes Green",
+    "category" : "Men",
+    "description" : "Casual",
+    "price" : 33
+  },
+  {
+    "name" : "Adidas Shoes Pink",
+    "category" : "Ladies",
+    "description" : "Casual",
+    "price" : 15
+  }
+]

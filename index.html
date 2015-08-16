@@ -66,7 +66,7 @@ License: You must have a valid license purchased only from themeforest (the abov
 <!-- Head END -->
 
 <!-- Body BEGIN -->
-<body class="ecommerce">
+<body ng-controller="data" class="ecommerce">
 <!-- BEGIN STYLE CUSTOMIZER -->
 <div class="color-panel hidden-sm">
     <div class="color-mode-icons icon-color"></div>
@@ -267,7 +267,7 @@ License: You must have a valid license purchased only from themeforest (the abov
             <!-- BEGIN SIDEBAR -->
             <div class="sidebar col-md-3 col-sm-5">
                 <ul class="list-group margin-bottom-25 sidebar-menu">
-                    <li class="list-group-item clearfix"><a href="shop-product-list.html"><i class="fa fa-angle-right"></i> Ladies</a></li>
+                    <li ng-repeat="category in categories" class="list-group-item clearfix"><a href="#products/{{ category }}"><i class="fa fa-angle-right"></i> {{ category }} </a></li>
                 </ul>
 
                 <div class="sidebar-filter margin-bottom-25">
