@@ -1,26 +1,45 @@
 [
   {
-    "name" : "Adidas Shoes Red",
+    "name" : "Adidas Shoes Gray",
     "category" : "Men",
-    "description" : "Running",
-    "price" : 20
+    "description" : "Lorem ipsum dolor ut sit ame dolore  adipiscing elit, sed nonumy nibh sed euismod laoreet dolore magna aliquarm erat volutpat Nostrud duis molestie at dolore.",
+    "price" : 20,
+    "img" : "model1.jpg"
   },
   {
     "name" : "Adidas Shoes Yellow",
     "category" : "Ladies",
-    "description" : "Running",
-    "price" : 25
+    "description" : "Lorem ipsum dolor ut sit ame dolore  adipiscing elit, sed nonumy nibh sed euismod laoreet dolore magna aliquarm erat volutpat Nostrud duis molestie at dolore.",
+    "price" : 25,
+    "img" : "model2.jpg"
   },
   {
     "name" : "Adidas Shoes Green",
     "category" : "Men",
-    "description" : "Casual",
-    "price" : 33
+    "description" : "Lorem ipsum dolor ut sit ame dolore  adipiscing elit, sed nonumy nibh sed euismod laoreet dolore magna aliquarm erat volutpat Nostrud duis molestie at dolore.",
+    "price" : 33,
+    "img" : "model3.jpg"
   },
   {
     "name" : "Adidas Shoes Pink",
     "category" : "Ladies",
-    "description" : "Casual",
-    "price" : 15
+    "description" : "Lorem ipsum dolor ut sit ame dolore  adipiscing elit, sed nonumy nibh sed euismod laoreet dolore magna aliquarm erat volutpat Nostrud duis molestie at dolore.",
+    "price" : 15,
+    "img" : "model4.jpg"
+  },
+  {
+    "name" : "Adidas Shoes Red",
+    "category" : "Ladies",
+    "description" : "Lorem ipsum dolor ut sit ame dolore  adipiscing elit, sed nonumy nibh sed euismod laoreet dolore magna aliquarm erat volutpat Nostrud duis molestie at dolore.",
+    "price" : 23,
+    "img" : "p8.jpg"
+  },
+  {
+    "name" : "Adidas Shoes White",
+    "category" : "Ladies",
+    "description" : "Lorem ipsum dolor ut sit ame dolore  adipiscing elit, sed nonumy nibh sed euismod laoreet dolore magna aliquarm erat volutpat Nostrud duis molestie at dolore.",
+    "price" : 20,
+    "img" : "p9.jpg"
   }
+
 ]

@@ -10,13 +10,17 @@ app.config(['$routeProvider',
                 templateUrl: '/views/products.html',
                 controller: 'productsCtrl'
             }).
-            when('/category/:name', {
+            when('/products/:categoryName', {
                 templateUrl: '/views/products.html',
-                controller: 'productCtrl'
+                controller: 'productsCtrl'
             }).
-            when('/product/:name', {
+            when('/products/:categoryName/:productName', {
                 templateUrl: '/views/product-details.html',
-                controller: 'productsDetailsCtrl'
+                controller: 'productDetailsCtrl'
+            }).
+            when('/addProduct', {
+                templateUrl: '/views/addProduct.html',
+                controller: 'addProductCtrl'
             }).
             otherwise({
                 redirectTo: '/products'
